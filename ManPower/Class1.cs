@@ -8,5 +8,6 @@ namespace ManPower
 {
     class Class1
     {
+        string Name;
     }
 }
